@@ -60,5 +60,5 @@ Este proyecto implementa un sistema de clasificación de frutas usando redes neu
 ## Créditos y Licencia
 
 - Dataset: [Fruit360 en Kaggle](https://www.kaggle.com/datasets/moltean/fruits)
-- Autor: Tu Nombre
+- Autor: Elmer Alexander Martinez Guillen
 - Licencia: MIT
